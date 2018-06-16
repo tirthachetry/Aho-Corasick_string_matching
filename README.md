@@ -11,4 +11,5 @@ pip install flashtext <br />
 
 
 # Special Mention
-https://xlinux.nist.gov/dads/HTML/ahoCorasick.html
+https://xlinux.nist.gov/dads/HTML/ahoCorasick.html <br />
+https://arxiv.org/abs/1711.00046
